@@ -3,6 +3,8 @@ import { createMuiTheme, MuiThemeProvider } from "@material-ui/core/styles";
 import Common from "./components/common";
 import Home from "./components/home";
 
+import "./App.css";
+
 const theme = createMuiTheme({
   palette: {
     primary: {
