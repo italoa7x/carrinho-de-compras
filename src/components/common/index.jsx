@@ -3,7 +3,7 @@ import AppBar from "@material-ui/core/AppBar";
 
 import "./styles.css";
 
-const Common: React.FC = () => {
+const Common = () => {
     return (
         <AppBar position="static" color="primary">
             <div className="header">

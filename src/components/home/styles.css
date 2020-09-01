@@ -52,6 +52,8 @@
 
 .card-footer {
     height: 40px;
+}
+.list-footer{
     width: 100%;
     display: flex;
     justify-content: space-between;
